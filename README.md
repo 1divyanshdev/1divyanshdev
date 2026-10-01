@@ -1,16 +1,15 @@
-## Hi there 👋
+# hey, i'm Divyansh Sharma
 
-<!--
-**1divyanshdev/1divyanshdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>building things, breaking things, learning along the way.</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b9/f1/94/b9f1947f21f38625f26ea8803dc2142c.gif" width="650">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently messing around with agents, harnesses, and the weird bits between code and intelligence.
+
+trying to build things worth using.
+
+reach me at: divyansh.freelances@gmail.com
