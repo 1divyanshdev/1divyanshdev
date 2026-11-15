@@ -9,4 +9,5 @@
 </p>
 
 currently messing around with agents, harnesses, and the weird bits between code and intelligence.
+
 reach me at: divyansh.freelances@gmail.com
